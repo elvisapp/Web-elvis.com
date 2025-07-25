@@ -1,0 +1,83 @@
+body{
+    background-color:rgb(61, 29, 3);
+    font: normal 15pt Arial;    
+}
+#titulo{
+    color: rgb(173, 20, 20);
+    font-style:normal 30pt Arial;
+    position: absolute;
+    top: 50px;
+    left: 80px;
+
+
+}
+
+#tem{
+    border-radius: 10px;
+    position: absolute;
+    top: 150px;
+    left: 85px;
+
+}
+#inputEmail{
+    border-radius: 10px;
+    color:   rgb(100, 14, 57);
+    text-align: center;
+    font-style:normal 10pt Arial;
+    position: absolute;
+    top: 30px;
+    left: 70px;
+
+
+    
+}
+#inputPassword{
+    border-radius: 10px;
+    color: rgb(221, 105, 10);
+    text-align: center;
+    font-style:normal 10pt Arial;
+    position: absolute;
+    top: 80px;
+    left: 70px;
+
+
+   
+}
+#btnLogin {
+    border-radius: 10px;
+    color:rgb(92, 92, 29);
+    text-align: center;
+    font: normal 10pt Arial;
+    position: absolute;
+    top: 500px;
+    left: 50px;
+
+}
+#esqueci{
+    font: normal 12pt Arial;
+    border-radius: 3px;
+    color: rgb(173, 20, 20);
+    position: absolute;
+    top: 500px;
+    left: 140px;
+
+
+}
+section{
+    background-color: rgb(54, 54, 41);
+    border-radius: 10px;
+    position: absolute;
+    top: 390px;
+    left: 20px;
+    padding: 15px;
+    width: 300px;
+    height: 100px;
+    margin: 0% auto;
+    box-shadow: 3px 3px 10px rgba(0,0,0.363) ;
+
+}
+.tainer{
+    position:absolute;
+    top:25%;
+    left: 40%;
+}
